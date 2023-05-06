@@ -11,7 +11,7 @@
     <li> > php artisan migrate:fresh --seed</li>
     <li> > php artisan serve</li>
     <li> > npm run dev</li>
-    <li> <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a> </li>
+    <li> Open <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a> </li>
     <li> Login with email and password (Get email from database and password is- password)</li>
     <li> For User list route <a href="http://127.0.0.1:8000/users">http://127.0.0.1:8000/users</a> </li>
     <li> Api login <a href="http://127.0.0.1:8000/api/login">http://127.0.0.1:8000/api/login</a> </li>
